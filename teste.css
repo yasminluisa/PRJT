@@ -1,0 +1,15 @@
+body{
+    background-color: red;
+}
+p{
+    text-align: center;
+    margin-top: 50%;
+    color: azure;
+}
+#botão{
+    color:black;
+    background-color: black;
+    font-size: medium;
+    border-radius: 20%;
+    
+}
